@@ -1,0 +1,12 @@
+[submodule "pyret-lang"]
+	path = pyret-lang
+	url = https://github.com/brownplt/pyret-lang.git
+[submodule "runtime/clojure"]
+	path = runtime/clojure
+	url = https://github.com/clojure/clojure.git
+[submodule "runtime/pyret"]
+	path = runtime/pyret
+	url = https://github.com/brownplt/pyret-lang.git
+[submodule "runtime/kotlin"]
+	path = runtime/kotlin
+	url = https://github.com/JetBrains/kotlin.git
