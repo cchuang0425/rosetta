@@ -1,3 +1,5 @@
 #lang racket
 
-(displayln "Hello World")
+(module+ main #f
+  (displayln "Hello World"))
+
