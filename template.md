@@ -1,37 +1,37 @@
-# 問題概述
+問題概述
 
-_<問題概述>_
+<問題概述>
 
-# 問題說明
+問題說明
 
-_<問題說明>_
+<問題說明>
 
-# 問題解法
+問題解法
 
-# C
+C
 
-_<C 解法>_
+<C 解法>
 
-# Java
+Java
 
-_<Java 解法>_
+<Java 解法>
 
-# Python
+Python
 
-_<Python 解法>_
+<Python 解法>
 
-# Haskell
+Haskell
 
-_<Haskell 解法>_
+<Haskell 解法>
 
-# Racket
+Racket
 
-_<Racket 解法>_
+<Racket 解法>
 
-# OCaml
+OCaml
 
-_<OCaml 解法>_
+<OCaml 解法>
 
-# 結語
+結語
 
-_<結語>_
+<結語>
